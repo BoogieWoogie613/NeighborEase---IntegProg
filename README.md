@@ -1,1 +1,3 @@
 # NeighborEase---IntegProg
+
+sample
